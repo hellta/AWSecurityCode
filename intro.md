@@ -70,3 +70,16 @@ bleib dran
 <p>
 <p>
 </details>
+<p>
+---
+
+<p>
+<p>
+
+# Wenn du das liest, hast du es geschafft. ☺
+<p>
+
+## Herzlich Willkommen
+<p>
+
+# Lasset die Spiele beginnen 
