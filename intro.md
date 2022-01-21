@@ -38,3 +38,14 @@ hell-o
 >☻
 >---
 >♣♦♠
+# Prüfungsfragen
+
+## Fragen zu Asset inventory
+<p>
+<details>
+<summary> Zusammenfassung Punkt 1
+</summary>
+<p>
+Hier kommt der ausfühliche Punkt
+<p>
+</details>
