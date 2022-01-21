@@ -54,4 +54,19 @@ oder 195cm?
 <p>
 verrückt!
 <p>
+</summary>
+</details>
+<p>
+<p>
+<details>
+<p>
+
+<summary> Wann schafft es Hagen mitzuspielen? ☻>
+</summary
+<p>
+trommelwirbel...... es bleibt spannend
+<p>
+bleib dran
+<p>
+<p>
 </details>
