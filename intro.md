@@ -31,3 +31,10 @@ hell-o
 **Hey Paddington**
 ---
 **Haaaaageeeeeeeen** du schaffst das
+***
+>**Eis**Bär
+>---
+>☺
+>☻
+>---
+>♣♦♠
