@@ -45,10 +45,12 @@ hell-o
 ## Fragen zu Asset inventory
 <p>
 <details>
-<summary> Wer ist größer, Tabea pder Paddy? <3<3<3>>>
+<summary> Wer ist größer, Tabea oder Paddy? ♥♥♥ <3<3<3>>>
 </summary>
 <p>
 trommelwirbel...... tadaaa = PADDY 194cm =)
+<p>
+oder 195cm?
 <p>
 verrückt!
 <p>
