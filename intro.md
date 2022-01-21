@@ -45,9 +45,9 @@ hell-o
 ## Fragen zu Asset inventory
 <p>
 <details>
-<summary> Zusammenfassung Punkt 1
+<summary> Wer ist größer, Tabea pder Paddy? <3<3<3>>>
 </summary>
 <p>
-Hier kommt der ausfühliche Punkt
+trommelwirbel...... tadaaa = PADDY 194cm =)
 <p>
 </details>
