@@ -17,7 +17,11 @@ ggg
 rg
 ---
 ---
----
+>**Arachnophobie** ist die Angst vor:
+>1. Schmetterlingen
+>2. Schlangen
+>3. Spinnen
+>4. Gummibärchen
 ---
 ---
 hello
