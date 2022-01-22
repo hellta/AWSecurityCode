@@ -83,3 +83,36 @@ bleib dran
 <p>
 
 # Lasset die Spiele beginnen 
+<p>
+<p>
+
+---
+
+<p>
+
+## Witze
+<p>
+<details>
+<summary> Was ist grün, hat 4 Beine und tötet dich, wenn es vom Baum fällt?
+</summary>
+<p>
+
+* Ein Billardtisch  :'D
+<p>
+
+* hahaha
+</details>
+<p>
+<p>
+
+<details>
+<summary> Was ist braun, klebrig und läuft durch die Wüste?
+</summary>
+<p>
+
+* Ein Karamel
+<p>
+
+* ba-dum-tsssssss
+</details>
+
