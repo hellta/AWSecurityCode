@@ -102,6 +102,7 @@ bleib dran
 <p>
 
 <details>
+<P>
 <summary> Was ist braun, klebrig und läuft durch die Wüste?
 </summary>
 <p>
@@ -112,3 +113,13 @@ bleib dran
 * ba-dum-tsssssss
 </details>
 
+<details>
+<summary> Wie viele Software-Entwickler braucht man, um eine Glühbirne zu wechseln? 
+</summary>
+<p>
+
+* Keinen. Das ist ein Hardware-Problem.
+<p>
+
+* muhahaha
+</details>
