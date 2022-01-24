@@ -4,13 +4,9 @@ Text Text
 
 ---
 
-Bulleted List
+Bullet List
 * eins
 * zwei
-ff
-ff
-dgj
-dfg
 
 ---
 ggg
